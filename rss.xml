@@ -5,8 +5,8 @@
         <description>Jekyll Bootstrap-3 - Name Lastname</description>
         <link>http://onetest.github.io</link>
         <link>http://onetest.github.io</link>
-        <lastBuildDate>2014-10-30T16:15:48+00:00</lastBuildDate>
-        <pubDate>2014-10-30T16:15:48+00:00</pubDate>
+        <lastBuildDate>2014-10-30T16:22:54+00:00</lastBuildDate>
+        <pubDate>2014-10-30T16:22:54+00:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -424,8 +424,8 @@ As noted, our main programming constraint is the fact that our API is limited to
 
 &lt;h2 id=&quot;next-steps&quot;&gt;Next Steps&lt;/h2&gt;
 
-&lt;p&gt;Please take a look at []() 
-or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&lt;/p&gt;
+&lt;p&gt;Please take a look at [](/cv) 
+or jump right into &lt;a href=&quot;/cv&quot;&gt;Usage&lt;/a&gt; if you’d like.&lt;/p&gt;
 </description>
                 <link>http://onetest.github.io/lessons/2011/12/29/jekyll-introduction</link>
                 <guid>http://onetest.github.io/lessons/2011/12/29/jekyll-introduction</guid>

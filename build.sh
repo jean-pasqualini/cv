@@ -1,1 +1,1 @@
-jekyll build --destination "../workspace/"
+jekyll build --destination "../workspace/" --safe
